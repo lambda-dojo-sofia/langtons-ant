@@ -1,0 +1,31 @@
+.langtons-cell {
+    width: 16px;
+    height: 16px;
+    border: 1px solid black;
+    margin: 0px;
+    padding: 0px;
+}
+
+.ant {
+    background: red !important;
+}
+
+.left {
+    border-left: 4px solid yellow;
+}
+
+.right {
+    border-right: 4px solid yellow;
+}
+
+.top {
+    border-top: 4px solid yellow;
+}
+
+.down {
+    border-bottom: 4px solid yellow;
+}
+
+.black {
+    background: black;
+}
