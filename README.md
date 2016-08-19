@@ -4,7 +4,7 @@ The repository contains solutions to [Langton's Ant](https://en.wikipedia.org/wi
 
 ## List of solutions
 
-* [Clojure/Clojurescript](https://github.com/lambda-dojo-sofia/langtons-ant/langtons-ant-cljs)
+* [Clojure/Clojurescript](https://github.com/lambda-dojo-sofia/langtons-ant/tree/master/langtons-ant-cljs)
 
 ## License
 
